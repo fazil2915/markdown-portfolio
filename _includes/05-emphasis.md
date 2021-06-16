@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+
+
+
+**“You always pass failure on the way
+to success.”**
+
+**Mickey Rooney**
+_Actor_
